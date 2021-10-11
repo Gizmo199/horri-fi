@@ -38,6 +38,9 @@ Special thanks to Xor for his inspiriation and incredible shader knowledge!
 Without him this shader wouldn't be possible so make sure to follow/like/and donate to him:
 
 Twitter: @XorDev
-Website: gmshaders.com
+
+Website: https://gmshaders.com
+
 Ko-fi: https://ko-fi.com/xor
+
 YT: https://www.youtube.com/c/XorDev
